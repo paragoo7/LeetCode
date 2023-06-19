@@ -6,7 +6,9 @@ class Solution {
             for (int v : e) {
                 s += v;
             }
-            ans = Math.max(ans, s);
+            if(s>ans){
+                ans= s;
+            }
         }
         return ans;
     }
