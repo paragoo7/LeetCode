@@ -1,2 +1,3 @@
 # LeetCode
-Collection of LeetCode questions ; All the Leetcode Questions Solved !
+Collection of LeetCode questions
+All the Leetcode Questions I've Solved !
